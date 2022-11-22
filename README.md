@@ -15,7 +15,7 @@ Highly budgeted schools like Bailey High School have performed poorly in compari
 
 Lastly, higher the number of students in schools,  the average math scores, average reading scores, passing math, passing reading, and overall passing decreases. 
 
-Hence, it can be desuced that when the students size increases, it influences adversly on the performance of students. Therefore, district and charter schools should focus on size of the class for better results.
+Hence, it can be inferred that when the students size increases, it influences adversly on the performance of students. Therefore, district and charter schools should focus on size of the class for better results.
 
 
 # Dependencies and Setup
